@@ -4,6 +4,9 @@ Guide to Markdown, GFM, LaTeX math, Mermaid diagrams, and inline HTML.
 
 ## Headings
 
+<details>
+<summary>Show details</summary>
+
 Use the # symbol to create headings. The number of # symbols determines the heading level.
 
 | Markdown Syntax | Output |
@@ -15,8 +18,12 @@ Use the # symbol to create headings. The number of # symbols determines the head
 | `##### Heading 5` | <h5>Heading 5</h5> |
 | `###### Heading 6` | <h6>Heading 6</h6> |
 
+</details>
 
 ## Text Formatting
+
+<details>
+<summary>Show details</summary>
 
 | Formatting    | Markdown Syntax | Output       |
 |:-----------   |:---------------:|-------:      |
@@ -27,8 +34,12 @@ Use the # symbol to create headings. The number of # symbols determines the head
 |Inline code    |	\`Hello\`	  | `Hello`      |
 |Underline      | `<u>Hello</u>`  |	<u>Hello</u> |
 
+</details>
 
 ## Paragraphs and Line Breaks
+
+<details>
+<summary>Show details</summary>
 
 ### New paragraph
 
@@ -56,7 +67,12 @@ This is the first line.<br>This is the second line.
 
 This is the first line.<br>This is the second line.
 
+</details>
+
 ## Lists
+
+<details>
+<summary>Show details</summary>
 
 ### Ordered List
 
@@ -117,7 +133,12 @@ Use - [ ] for an incomplete task and - [x] for a completed task.
 - [ ] Review pull request
 - [ ] Deploy to production
 
+</details>
+
 ## Blockquotes
+
+<details>
+<summary>Show details</summary>
 
 Use the > symbol to create a blockquote.
 
@@ -141,7 +162,12 @@ Use the > symbol to create a blockquote.
 > > Second level
 > > > Third level
 
+</details>
+
 ## Tables
+
+<details>
+<summary>Show details</summary>
 
 ```Markdown
 | Name | Age | City |
@@ -175,7 +201,12 @@ Use ---: for right alignment.<br>
 | A    | B      | C     |
 | D    | E      | F     |
 
+</details>
+
 ## Links
+
+<details>
+<summary>Show details</summary>
 
 Use square brackets for the link text and parentheses for the URL.
 ```Markdown
@@ -199,7 +230,12 @@ Visit [HAN][website].
 
 [website]: https://www.han.nl/
 
+</details>
+
 ## Images
+
+<details>
+<summary>Show details</summary>
 
 Use an exclamation mark (!), followed by text in square brackets and the image URL in parentheses.<br>
 The image will be shown in he original size.
@@ -220,7 +256,12 @@ To adjust the size of the image in pixels.
 
 <img src="https://www.han.nl/images/logo/han_university.svg" width="80">
 
+</details>
+
 ## Code
+
+<details>
+<summary>Show details</summary>
 
 Markdown supports both inline code and multiline code blocks.
 
@@ -236,8 +277,9 @@ Use `print()` to display output.
 
 ### Fenced code block
 
-Use three backticks ``` before and after the code.<br>
+Use three backticks \``` before and after the code.<br>
 For syntax-highlighted code block, add the programming language immediately after the opening backticks.
+
 #### Example:
 
 \```c<br>
@@ -250,7 +292,12 @@ printf("Hello, World!");<br>
 printf("Hello, World!");
 ```
 
+</details>
+
 ## Horizontal Rules
+
+<details>
+<summary>Show details</summary>
 
 Use three or more hyphens - on a separate line.
 ```Markdown
@@ -259,7 +306,12 @@ Use three or more hyphens - on a separate line.
 #### Output:
 ---
 
+</details>
+
 ## Mathematical Expressions
+
+<details>
+<summary>Show details</summary>
 
 ### Inline Mathematical Expressions
 Use a single dollar sign ($) on each side of the expression.
@@ -298,7 +350,12 @@ $$
 \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
 $$
 
+</details>
+
 ## Mermaid Diagrams
+
+<details>
+<summary>Show details</summary>
 
 ### Flowchart
 
@@ -342,7 +399,12 @@ sequenceDiagram
     User->>Export: Save as PDF
 ```
 
+</details>
+
 ## HTML Elements
+
+<details>
+<summary>Show details</summary>
 
 ### Superscript 
 
@@ -398,7 +460,12 @@ Press <kbd>Ctrl</kbd> + <kbd>S</kbd> to save
 
 <span style="color:red;">Red text</span>
 
+</details>
+
 ## Accordion
+
+<details>
+<summary>Show details</summary>
 
 An accordion is a label you click to reveal hidden content, use `<details>` and `<summery>` .<br>
 The `<summary>` is the visible label and everything after it stays folded until clicked. Leave a blank line after the `<summery>`.
@@ -419,7 +486,12 @@ This is the hidden text that will appear when you click the summary.
 
 </details>
 
+</details>
+
 ## Comments
+
+<details>
+<summary>Show details</summary>
 
 To leave a note in the source that stays out of the page, use `<!--  -->`.
 ```markdown
@@ -433,7 +505,12 @@ Visible text.
 <!-- a note to yourself -->
 More visible text.
 
+</details>
+
 ## Escaping Characters
+
+<details>
+<summary>Show details</summary>
 
 Use backslash \ to display literal characters:
 ```markdown
@@ -451,3 +528,5 @@ Use backslash \ to display literal characters:
 \# Not a heading
 
 \- Not a list item
+
+</details>
