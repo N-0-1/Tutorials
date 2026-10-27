@@ -1,8 +1,8 @@
-# Markdown Cheat Sheet: Syntax, Math & Diagrams
+# <span style="color:yellow;">Markdown Cheat Sheet: Syntax, Math & Diagrams</span>
 
 Guide to Markdown, GFM, LaTeX math, Mermaid diagrams, and inline HTML.
 
-## Headings
+## <span style="color:green;">Headings</span>
 
 <details>
 <summary>Show details</summary>
@@ -20,7 +20,7 @@ Use the # symbol to create headings. The number of # symbols determines the head
 
 </details>
 
-## Text Formatting
+## <span style="color:green;">Text Formatting</span>
 
 <details>
 <summary>Show details</summary>
@@ -36,7 +36,7 @@ Use the # symbol to create headings. The number of # symbols determines the head
 
 </details>
 
-## Paragraphs and Line Breaks
+## <span style="color:green;">Paragraphs and Line Breaks</span>
 
 <details>
 <summary>Show details</summary>
@@ -69,7 +69,7 @@ This is the first line.<br>This is the second line.
 
 </details>
 
-## Lists
+## <span style="color:green;">Lists</span>
 
 <details>
 <summary>Show details</summary>
@@ -135,7 +135,7 @@ Use - [ ] for an incomplete task and - [x] for a completed task.
 
 </details>
 
-## Blockquotes
+## <span style="color:green;">Blockquotes</span>
 
 <details>
 <summary>Show details</summary>
@@ -164,7 +164,7 @@ Use the > symbol to create a blockquote.
 
 </details>
 
-## Tables
+## <span style="color:green;">Tables</span>
 
 <details>
 <summary>Show details</summary>
@@ -203,7 +203,7 @@ Use ---: for right alignment.<br>
 
 </details>
 
-## Links
+## <span style="color:green;">Links</span>
 
 <details>
 <summary>Show details</summary>
@@ -232,7 +232,7 @@ Visit [HAN][website].
 
 </details>
 
-## Images
+## <span style="color:green;">Images</span>
 
 <details>
 <summary>Show details</summary>
@@ -258,7 +258,7 @@ To adjust the size of the image in pixels.
 
 </details>
 
-## Code
+## <span style="color:green;">Code</span>
 
 <details>
 <summary>Show details</summary>
@@ -294,7 +294,7 @@ printf("Hello, World!");
 
 </details>
 
-## Horizontal Rules
+## <span style="color:green;">Horizontal Rules</span>
 
 <details>
 <summary>Show details</summary>
@@ -308,7 +308,7 @@ Use three or more hyphens - on a separate line.
 
 </details>
 
-## Mathematical Expressions
+## <span style="color:green;">Mathematical Expressions</span>
 
 <details>
 <summary>Show details</summary>
@@ -352,7 +352,7 @@ $$
 
 </details>
 
-## Mermaid Diagrams
+## <span style="color:green;">Mermaid Diagrams</span>
 
 <details>
 <summary>Show details</summary>
@@ -401,7 +401,7 @@ sequenceDiagram
 
 </details>
 
-## HTML Elements
+## <span style="color:green;">HTML Elements</span>
 
 <details>
 <summary>Show details</summary>
@@ -462,7 +462,7 @@ Press <kbd>Ctrl</kbd> + <kbd>S</kbd> to save
 
 </details>
 
-## Accordion
+## <span style="color:green;">Accordion</span>
 
 <details>
 <summary>Show details</summary>
@@ -488,7 +488,7 @@ This is the hidden text that will appear when you click the summary.
 
 </details>
 
-## Comments
+## <span style="color:green;">Comments</span>
 
 <details>
 <summary>Show details</summary>
@@ -507,7 +507,7 @@ More visible text.
 
 </details>
 
-## Escaping Characters
+## <span style="color:green;">Escaping Characters</span>
 
 <details>
 <summary>Show details</summary>
