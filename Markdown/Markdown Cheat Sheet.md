@@ -1,8 +1,8 @@
-# <span style="color:yellow;">Markdown Cheat Sheet: Syntax, Math & Diagrams</span>
+# 🟡 Markdown Cheat Sheet: Syntax, Math & Diagrams
 
 Guide to Markdown, GFM, LaTeX math, Mermaid diagrams, and inline HTML.
 
-## <span style="color:green;">Headings</span>
+## 🟢 Headings
 
 <details>
 <summary>Show details</summary>
@@ -20,7 +20,7 @@ Use the # symbol to create headings. The number of # symbols determines the head
 
 </details>
 
-## <span style="color:green;">Text Formatting</span>
+## 🟢 Text Formatting
 
 <details>
 <summary>Show details</summary>
@@ -36,7 +36,7 @@ Use the # symbol to create headings. The number of # symbols determines the head
 
 </details>
 
-## <span style="color:green;">Paragraphs and Line Breaks</span>
+## 🟢 Paragraphs and Line Breaks
 
 <details>
 <summary>Show details</summary>
@@ -69,7 +69,7 @@ This is the first line.<br>This is the second line.
 
 </details>
 
-## <span style="color:green;">Lists</span>
+## 🟢 Lists
 
 <details>
 <summary>Show details</summary>
@@ -135,7 +135,7 @@ Use - [ ] for an incomplete task and - [x] for a completed task.
 
 </details>
 
-## <span style="color:green;">Blockquotes</span>
+## 🟢 Blockquotes
 
 <details>
 <summary>Show details</summary>
@@ -164,7 +164,7 @@ Use the > symbol to create a blockquote.
 
 </details>
 
-## <span style="color:green;">Tables</span>
+## 🟢 Tables
 
 <details>
 <summary>Show details</summary>
@@ -203,7 +203,7 @@ Use ---: for right alignment.<br>
 
 </details>
 
-## <span style="color:green;">Links</span>
+## 🟢 Links
 
 <details>
 <summary>Show details</summary>
@@ -232,7 +232,7 @@ Visit [HAN][website].
 
 </details>
 
-## <span style="color:green;">Images</span>
+## 🟢 Images
 
 <details>
 <summary>Show details</summary>
@@ -258,7 +258,7 @@ To adjust the size of the image in pixels.
 
 </details>
 
-## <span style="color:green;">Code</span>
+## 🟢 Code
 
 <details>
 <summary>Show details</summary>
@@ -294,7 +294,7 @@ printf("Hello, World!");
 
 </details>
 
-## <span style="color:green;">Horizontal Rules</span>
+## 🟢 Horizontal Rules
 
 <details>
 <summary>Show details</summary>
@@ -308,7 +308,7 @@ Use three or more hyphens - on a separate line.
 
 </details>
 
-## <span style="color:green;">Mathematical Expressions</span>
+## 🟢 Mathematical Expressions
 
 <details>
 <summary>Show details</summary>
@@ -352,7 +352,7 @@ $$
 
 </details>
 
-## <span style="color:green;">Mermaid Diagrams</span>
+## 🟢 Mermaid Diagrams
 
 <details>
 <summary>Show details</summary>
@@ -401,7 +401,7 @@ sequenceDiagram
 
 </details>
 
-## <span style="color:green;">HTML Elements</span>
+## 🟢 HTML Elements
 
 <details>
 <summary>Show details</summary>
@@ -462,7 +462,7 @@ Press <kbd>Ctrl</kbd> + <kbd>S</kbd> to save
 
 </details>
 
-## <span style="color:green;">Accordion</span>
+## 🟢 Accordion
 
 <details>
 <summary>Show details</summary>
@@ -488,7 +488,7 @@ This is the hidden text that will appear when you click the summary.
 
 </details>
 
-## <span style="color:green;">Comments</span>
+## 🟢 Comments
 
 <details>
 <summary>Show details</summary>
@@ -507,7 +507,7 @@ More visible text.
 
 </details>
 
-## <span style="color:green;">Escaping Characters</span>
+## 🟢 Escaping Characters
 
 <details>
 <summary>Show details</summary>
@@ -528,5 +528,26 @@ Use backslash \ to display literal characters:
 \# Not a heading
 
 \- Not a list item
+
+</details>
+
+## 🟢 Unicode shapes
+
+<details>
+<summary>Show details</summary>
+
+You can copy and paste shapes directly into your Markdown file.
+
+**Geometric shapes**
+
+■ □ ● ○ ▲ △ ◆ ◇ ★ ♥
+
+**Colored circles**
+
+🔴 🟢 🔵 🟡 🟣 🟠
+
+**Arrows**
+
+→ ← ↑ ↓ ↔ ⇒ ➜ ⇓
 
 </details>
