@@ -1,8 +1,8 @@
-# 🟡 Markdown Cheat Sheet: Syntax, Math & Diagrams
+# ● Markdown Cheat Sheet: Syntax, Math & Diagrams
 
 Guide to Markdown, GFM, LaTeX math, Mermaid diagrams, and inline HTML.
 
-## 🟢 Headings
+## ● Headings
 
 <details>
 <summary>Show details</summary>
@@ -20,7 +20,7 @@ Use the # symbol to create headings. The number of # symbols determines the head
 
 </details>
 
-## 🟢 Text Formatting
+## ● Text Formatting
 
 <details>
 <summary>Show details</summary>
@@ -36,7 +36,7 @@ Use the # symbol to create headings. The number of # symbols determines the head
 
 </details>
 
-## 🟢 Paragraphs and Line Breaks
+## ● Paragraphs and Line Breaks
 
 <details>
 <summary>Show details</summary>
@@ -69,7 +69,7 @@ This is the first line.<br>This is the second line.
 
 </details>
 
-## 🟢 Lists
+## ● Lists
 
 <details>
 <summary>Show details</summary>
@@ -135,7 +135,7 @@ Use - [ ] for an incomplete task and - [x] for a completed task.
 
 </details>
 
-## 🟢 Blockquotes
+## ● Blockquotes
 
 <details>
 <summary>Show details</summary>
@@ -164,7 +164,7 @@ Use the > symbol to create a blockquote.
 
 </details>
 
-## 🟢 Tables
+## ● Tables
 
 <details>
 <summary>Show details</summary>
@@ -203,7 +203,7 @@ Use ---: for right alignment.<br>
 
 </details>
 
-## 🟢 Links
+## ● Links
 
 <details>
 <summary>Show details</summary>
@@ -232,7 +232,7 @@ Visit [HAN][website].
 
 </details>
 
-## 🟢 Images
+## ● Images
 
 <details>
 <summary>Show details</summary>
@@ -258,7 +258,7 @@ To adjust the size of the image in pixels.
 
 </details>
 
-## 🟢 Code
+## ● Code
 
 <details>
 <summary>Show details</summary>
@@ -294,7 +294,7 @@ printf("Hello, World!");
 
 </details>
 
-## 🟢 Horizontal Rules
+## ● Horizontal Rules
 
 <details>
 <summary>Show details</summary>
@@ -308,7 +308,7 @@ Use three or more hyphens - on a separate line.
 
 </details>
 
-## 🟢 Mathematical Expressions
+## ● Mathematical Expressions
 
 <details>
 <summary>Show details</summary>
@@ -352,7 +352,7 @@ $$
 
 </details>
 
-## 🟢 Mermaid Diagrams
+## ● Mermaid Diagrams
 
 <details>
 <summary>Show details</summary>
@@ -401,7 +401,7 @@ sequenceDiagram
 
 </details>
 
-## 🟢 HTML Elements
+## ● HTML Elements
 
 <details>
 <summary>Show details</summary>
@@ -462,7 +462,7 @@ Press <kbd>Ctrl</kbd> + <kbd>S</kbd> to save
 
 </details>
 
-## 🟢 Accordion
+## ● Accordion
 
 <details>
 <summary>Show details</summary>
@@ -488,7 +488,7 @@ This is the hidden text that will appear when you click the summary.
 
 </details>
 
-## 🟢 Comments
+## ● Comments
 
 <details>
 <summary>Show details</summary>
@@ -507,7 +507,7 @@ More visible text.
 
 </details>
 
-## 🟢 Escaping Characters
+## ● Escaping Characters
 
 <details>
 <summary>Show details</summary>
@@ -531,7 +531,7 @@ Use backslash \ to display literal characters:
 
 </details>
 
-## 🟢 Unicode shapes
+## ● Unicode shapes
 
 <details>
 <summary>Show details</summary>
