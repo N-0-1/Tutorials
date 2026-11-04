@@ -1,0 +1,12 @@
+# Qt Creator build directories
+.qtcreator/
+build/
+ 
+# User specific settings
+*.pro.user
+ 
+# Compiled binaries and objects
+*.o
+*.exe
+*.app
+ 
